@@ -7,7 +7,7 @@ function About(){
             Any misuse of this platform for other purposes may result in consequences.
         </p>
         <footer>
-            <p>Copyright &copy; 2023</p>
+            <p>Copyright &copy; 2024</p>
             <p>Designed and Built by <a href="#">DAVNS</a></p>
         </footer>
       </section>
